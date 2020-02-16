@@ -1,0 +1,28 @@
+{
+  "name": "blocks",
+  "version": "1.0.0",
+  "description": "A PHP minimal framework",
+  "dependencies": {
+    "blocksmvc-cli": "^2.4.0",
+    "gulp": "^4.0.2",
+    "gulp-csso": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadadams/BlocksMVC.git"
+  },
+  "keywords": [
+    "PHP",
+    "Framework"
+  ],
+  "author": "Asad Adams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asadadams/BlocksMVC/issues"
+  },
+  "homepage": "https://github.com/asadadams/BlocksMVC#readme"
+}
